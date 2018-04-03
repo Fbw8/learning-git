@@ -1,1 +1,23 @@
 test
+
+<<<<<<< HEAD
+Buailfidh tú le daoine
+'Dhéanfaidh iarracht tú a dhíruí
+Treo amháin gan oíche
+Agus treo eile gan lá
+Buailfidh tú le daoine
+'Dheanfaidh iarracht do threo a rialú
+Slí amháin le meallach
+Agus slí eile le crá
+Tá do mheáchan fhéin le iompar
+Do bhóthair fhéin le tógáil
+Tusa do anam do chorp 's do aigne
+'S má thuigeann tú gur beo tú
+Ná scar le sin go héasca
+Mar ins an deireadh thiar thall
+Is tú fhéin an tiomanaí
+
+-Ronán Ó Snoddaigh
+=======
+changed by DAMIR!!!
+>>>>>>> 8d3fbf4a79fd58a9d3a847cd00ae6734a27c45ff
