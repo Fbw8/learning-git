@@ -1,5 +1,6 @@
 test
 
+<<<<<<< HEAD
 Buailfidh tú le daoine
 'Dhéanfaidh iarracht tú a dhíruí
 Treo amháin gan oíche
@@ -17,3 +18,6 @@ Mar ins an deireadh thiar thall
 Is tú fhéin an tiomanaí
 
 -Ronán Ó Snoddaigh
+=======
+changed by DAMIR!!!
+>>>>>>> 8d3fbf4a79fd58a9d3a847cd00ae6734a27c45ff
