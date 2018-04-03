@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Chuck Norris
+=======
+Hello World!
+>>>>>>> 88974d85480c18ff87e15a10edc38bfa1fc7a5b4
